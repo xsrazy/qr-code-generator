@@ -158,10 +158,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/qr-code-generator?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/qr-code-generator?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/qr-code-generator)
-![GitHub license](https://img.shields.io/github/license/yourusername/qr-code-generator)
+![GitHub stars](https://img.shields.io/github/stars/xsrazy/qr-code-generator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/xsrazy/qr-code-generator?style=social)
+![GitHub issues](https://img.shields.io/github/issues/xsrazy/qr-code-generator)
+![GitHub license](https://img.shields.io/github/license/xsrazy/qr-code-generator)
 
 ---
 
